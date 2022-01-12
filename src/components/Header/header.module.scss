@@ -1,0 +1,13 @@
+.headerContainer{
+    height: 105px;
+}
+
+.headerContent {
+    max-width: 700px;
+    height: 105px;
+    margin: 0 auto;
+    padding: 0 2px;
+
+    display: flex;
+    align-items: center;
+}
